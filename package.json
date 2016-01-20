@@ -1,0 +1,33 @@
+{
+  "name": "wewewebpack",
+  "version": "0.0.1",
+  "description": "Webpack tuts inspired by webpack-demos",
+  "main": "wewewebpack.js",
+  "bin": {
+    "wewewebpack": "./wewewebpack.js"
+  },
+  "dependencies": {
+    "workshopper-adventure": "~4.4.3",
+    "workshopper-exercise": "~2.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kohei-takata/wewewebpack.git"
+  },
+  "author": "Kohei TAKATA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kohei-takata/wewewebpack/issues"
+  },
+  "homepage": "https://github.com/kohei-takata/wewewebpack",
+  "preferGlobal": true,
+  "keywords": [
+    "webpack",
+    "learn",
+    "tutorial",
+    "workshopper"
+  ]
+}
